@@ -3,7 +3,7 @@
 - I also enjoy nature, anime, VR, and video games. Aswell as making alot of my apps Astolfo themed.
 
 
-# Languages I'm learning right now are:
+# Languages I'm learning right now are
 ```
 C# (Mainly for Unity)
 Python
