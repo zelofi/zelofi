@@ -11,5 +11,5 @@ JS
 ```
 
 # Things I've made
-[Apple Climbers]("https://www.oculus.com/experiences/quest/5183386828371231/?utm_source=www.google.com&utm_medium=oculusredirect#")
+[Apple Climbers]("https://www.oculus.com/experiences/quest/5183386828371231/")
 > One of my first officially released VR games, it is a Gorilla Tag Fangame but it still holds a big place in my heart, and made me passionate about game development/coding!
