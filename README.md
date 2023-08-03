@@ -1,13 +1,12 @@
 # Hi! 👋
 - My name's zelofi, I'm a young coder who makes cool stuff from time to time. ^_^
-- I also enjoy game development, anime, VR, and video games.
+- I enjoy game development, anime, VR, and video games.
 
 
 ## Languages I'm learning right now are
 ```
 C# (Mainly for Unity)
 Python
-JS
 ```
 
 ## Things I've made
