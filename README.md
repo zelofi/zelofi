@@ -5,10 +5,14 @@
 
 ## Languages I'm learning right now are
 ```
-C# (Mainly for Unity)
+C#
 Python
+HTML/CSS
 ```
 
-## Things I've made
+## Things I've made/am working on
 [Apple Climbers]("https://www.oculus.com/experiences/quest/5183386828371231/")
 - One of my first officially released VR games, it is a Gorilla Tag Fangame but it still holds a big place in my heart, and made me passionate about game development/coding!
+
+Baldi's Basics Co-op
+- Soon 👀
